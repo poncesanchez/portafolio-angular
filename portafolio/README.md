@@ -45,7 +45,7 @@ and add the HttpClientModule in the Ng decorator, imports section.
 
 # Usefull information 
 1. Restore last commit: `git checkout -- .`
-2. See shanges `git s`
+2. See changes `git s`
 3. You can use this url to check if the Json code is valid: http://json.parser.online.fr/
 4. You can add this css to animate the transition between pages: https://daneden.github.io/animate.css/
 
