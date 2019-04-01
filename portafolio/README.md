@@ -36,6 +36,10 @@ and add the HttpClientModule in the Ng decorator, imports section.
 
 9. You can create a interface to determine the type of the data that the json will have. Use the extension Json to ts to convert the json data. Use the following command: `control + alt + p`
 
+
+# Crear aplicación
+ng build --prod
+
 # Running the proyect
 
 1. CD to the proyect folder.
@@ -48,7 +52,8 @@ and add the HttpClientModule in the Ng decorator, imports section.
 2. See changes `git s`
 3. You can use this url to check if the Json code is valid: http://json.parser.online.fr/
 4. You can add this css to animate the transition between pages: https://daneden.github.io/animate.css/
+5. http-server create local for test
+5.1 http-server
 
-` `
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
